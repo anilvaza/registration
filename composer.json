@@ -1,0 +1,16 @@
+{
+  "name": "anilvaza/registration",
+  "description": "Login Registration",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Anil Vaza",
+      "email": "anil@elsner.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
